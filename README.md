@@ -1,133 +1,152 @@
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<div align="center">
 
-# Hi 👋, I'm Lakshmi Madhavi
+# Hi 👋 I'm Lakshmi Madhavi
 
 ### 🎓 Final Year B.Tech Computer Science Engineering Student
 ### 🏛️ Puducherry Technological University
 
----
-
-## 💫 About Me
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 
 💻 Passionate about Software Development and Problem Solving
 
-🌱 Currently exploring Full Stack Development, Cloud Technologies, and Modern Web Applications
+🌱 Exploring Full Stack Development, Mobile Applications, Cloud Technologies, and Modern Web Applications
 
-🚀 Interested in:
-- Web Development
-- Mobile Application Development
-- Database Systems
-- Software Engineering
-- Artificial Intelligence Applications
+🚀 Building practical solutions through software and technology
 
-📚 Always eager to learn new technologies and build real-world solutions
+</div>
 
-🎯 Career Goal: Software Engineer | Full Stack Developer | Application Developer
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Final Year B.Tech CSE Student
+- 🏛️ Puducherry Technological University
+- 💡 Interested in Software Development and Real-World Problem Solving
+- 📱 Mobile Application Development Enthusiast
+- 🌐 Learning Full Stack Development
+- 🗄️ Strong Interest in Database Systems
+- 🤝 Team Player and Quick Learner
+- 📚 Always exploring new technologies
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+</p>
 
 ### Web Technologies
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge)
-![Servlets](https://img.shields.io/badge/Java%20Servlets-orange?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-00618A?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ### Mobile Development
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=androidstudio" />
+</p>
 
 ### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-# 🚀 Projects
+## 🚀 Featured Projects
+<!--
+### 🆘 SOS Emergency Assistance Application
 
-## 🆘 SOS Emergency Assistance Application
+Android-based emergency response application that enables users to instantly notify emergency contacts and share their live location during critical situations.
 
-Developed an Android-based emergency response application that enables users to quickly alert emergency contacts and share their location during critical situations. Implemented user authentication, location services, and emergency notification features to improve personal safety and rapid response.
-
----
-
-## 🌾 Agri Connect Mobile Application
-
-Developed an Android application connecting farmers and customers through a digital marketplace. Implemented login authentication, product listing, profile management, and user-friendly navigation to simplify agricultural product transactions.
+**Technologies:** Android Studio, Java, Firebase, Location Services
 
 ---
 
-## 🧠 Online Quiz Management System
+### 🌾 Agri Connect Mobile Application
 
-Designed and developed a database-driven quiz platform using Java, JSP, Servlets, and MySQL. Implemented user authentication, quiz participation, score evaluation, and result management while applying relational database concepts and SQL operations.
+Android application connecting farmers and customers through a digital marketplace with product listing, authentication, and profile management.
+
+**Technologies:** Android Studio, Java, Firebase
+
+---
+-->
+### 🧠 Online Quiz Management System
+
+Database-driven quiz platform with authentication, quiz participation, score evaluation, and result management.
+
+**Technologies:** Java, JSP, Servlets, MySQL
 
 ---
 
-## 🌍 Google Maps Integration Application (C#)
+### 🌍 Google Maps Integration Application (C#)
 
-Developed a desktop application using C# and Windows Forms integrated with Google Maps services. Implemented map visualization, location search, route navigation, and marker placement features. Utilized API integration and event-driven programming to provide interactive location-based functionality.
+Desktop application built using C# and Windows Forms integrated with Google Maps functionality for location search, route navigation, and marker placement.
 
----
-
-## 🗄️ Medicine Availability Finder (DBMS)
-
-Designed and developed a database management system to help users locate medicines across multiple pharmacies. Implemented relational database design, SQL queries, inventory management, medicine search, and pharmacy information modules to improve medicine accessibility.
+**Technologies:** C#, Windows Forms, Google Maps API
 
 ---
 
+### 🗄️ Medicine Availability Finder (DBMS)
+
+Database management system that helps users locate medicines across multiple pharmacies using relational database concepts and SQL queries.
+
+**Technologies:** MySQL, SQL, DBMS
+
+---
+<!--
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhavi142005&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhavi142005&layout=compact&theme=tokyonight)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=madhavi142005&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavi142005&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
-
+-->
 ## 🌟 Strengths
 
-✔ Problem Solving
+✅ Problem Solving
 
-✔ Team Collaboration
+✅ Team Collaboration
 
-✔ Quick Learner
+✅ Quick Learner
 
-✔ Adaptability
+✅ Adaptability
 
-✔ Continuous Learning
+✅ Continuous Learning
 
----
-
-## 📈 Current Focus
-
-🔹 Full Stack Development
-
-🔹 Software Engineering
-
-🔹 Mobile Application Development
-
-🔹 Database Design & Management
-
-🔹 Cloud Technologies
+✅ Time Management
 
 ---
 
-### ⭐ "Building solutions that create real-world impact through technology."
+## 🎯 Current Focus
+
+- Full Stack Development
+- Software Engineering
+- Mobile Application Development
+- Database Design & Management
+- Cloud Technologies
+- Artificial Intelligence
+
+---
+
+<div align="center">
+
+### ⭐ Building solutions that create real-world impact through technology
+
+</div>
