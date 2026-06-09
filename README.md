@@ -1,11 +1,9 @@
 <div align="center">
 
-# Hi 👋 I'm Lakshmi Madhavi
+# Hi 👋 I'm Madhavi
 
 ### 🎓 Final Year B.Tech Computer Science Engineering Student
 ### 🏛️ Puducherry Technological University
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 
 💻 Passionate about Software Development and Problem Solving
 
